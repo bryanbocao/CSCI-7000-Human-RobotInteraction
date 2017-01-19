@@ -10,4 +10,4 @@ Goodrich states: "In essence, a designer can affect five attributes that affect 
 Table 5.1 presents several examples of roles and proximity patterns that arise in several application areas. Which do you find most interesting? Why?
 Section 7 describes the relationship of HRI to many closely related fields. Can HRI really be considered a distinct discipline, or should it be considered a sub-field of another area of study (e.g., robotics, hci, etc.)? Why or why not?
 Anything else you found interesting about the article or didn't understand?
-Alternative direct-download link to reading: Human-Robot Interaction: A Survey
+Alternative direct-download link to reading: [Human-Robot Interaction: A Survey](https://moodle.cs.colorado.edu/pluginfile.php/33717/mod_forum/intro/Goodrich%20-%20Survey.pdf)
