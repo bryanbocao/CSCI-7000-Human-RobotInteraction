@@ -1,0 +1,32 @@
+receiving pause,receiving turning,receiving brightening,receiving blinking,receiving circling,receiving _eyes,receiving _behaviors,respect pause,respect turning,respect brightening,respect blinking,respect circling,respect _eyes,respect _behaviors,willing pause,willing turning,willing brightening,willing blinking,willing circling,willing _eyes,willing _behaviors,exp with robot,own robot,information source,labor help,age,gender,major,eye contact,own dog,How much do you use voice assistant such as Amazon Echo/Google Home/Google Voice/Siri,exp waiter/ress,exp volunteer,interrupt for help,own cat
+6,6,5,5,4,2,2,7,6,6,6,4,2,2,6,6,6,6,3,2,2,4,No,"Search Engine like Google, Bing",Robot,25,Male,Computer Science,6,No,6,No,Yes,No,No
+7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,5,7,7,4,No,"Search Engine like Google, Bing",My mother,21,Female,ECE,4,Yes,2,No,Yes,Yes,No
+6,7,5,5,5,1,2,2,5,5,5,3,3,4,6,7,7,3,2,3,2,4,No,Human,Human,30,Male,Mechanical engineering,6,Yes,2,No,Yes,Maybe,No
+7,7,7,4,1,5,1,6,6,6,3,2,3,2,7,7,7,3,3,3,1,3,No,"Search Engine like Google, Bing",Human,21,Male,Computer Science,6,No,5,No,No,No,No
+5,5,5,3,3,3,2,5,5,5,4,4,3,3,5,5,5,3,3,3,2,3,No,"Search Engine like Google, Bing",Human,25,Female,Computer Science,3,Yes,1,No,Yes,No,Yes
+7,7,6,7,7,1,1,5,7,6,6,7,2,2,7,7,6,6,7,1,1,2,No,"Search Engine like Google, Bing",Robot,21,Female,Computer Science,6,Yes,4,No,Yes,Maybe,No
+7,7,1,2,5,1,2,6,6,1,3,2,4,4,6,6,6,4,6,4,4,6,No,"Search Engine like Google, Bing",Robot,29,Male,Computer Science,6,No,5,No,Yes,No,No
+2,5,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,No,"Search Engine like Google, Bing",Human,31,Female,Computer Science,7,No,1,Yes,Yes,Yes,Yes
+7,3,6,7,3,1,4,5,7,5,6,3,1,4,7,7,5,6,3,1,4,2,No,"Search Engine like Google, Bing",Robot,22,Female,Computer Science,7,Yes,2,No,Yes,No,No
+7,7,7,7,7,1,1,7,7,7,7,7,1,1,7,7,7,7,7,1,1,3,No,"Search Engine like Google, Bing",Robot,28,Male,Computer Science,4,No,1,No,Maybe,Yes,No
+7,7,7,4,3,4,4,5,5,6,4,3,6,5,4,6,6,5,3,5,5,1,No,"Search Engine like Google, Bing",Robot,27,Male,Computer Science,3,No,2,No,Yes,Yes,No
+4,7,5,7,5,1,2,7,7,3,6,6,2,2,6,7,7,7,2,1,1,2,No,"Search Engine like Google, Bing",Human,23,Male,Computer Science,7,No,5,No,Yes,Yes,No
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,5,No,Robot,Robot,20,Female,Electrical engineer ,6,No,4,No,Yes,Maybe,No
+5,6,7,6,5,2,1,5,6,7,6,3,3,3,7,7,6,6,5,3,2,2,No,"Search Engine like Google, Bing",Robot,26,Female,Computer Science,6,Yes,2,Yes,Yes,Maybe,No
+6,3,3,6,4,1,1,7,7,4,7,4,1,1,7,7,4,7,4,1,1,1,No,Human,Human,26,Female,Economics,7,No,1,No,Yes,Yes,No
+6,5,7,4,3,2,5,6,6,6,4,4,6,6,6,6,6,6,4,4,6,2,No,"Search Engine like Google, Bing",Robot,23,Female,Computer Science,6,No,2,No,Yes,Yes,No
+2,5,5,3,2,2,2,5,5,2,2,1,4,3,5,5,2,1,1,3,3,6,No,Human,Human,26,Male,Computer science,3,No,6,No,Yes,Yes,Yes
+5,5,5,2,2,4,2,3,2,2,2,2,2,2,5,5,5,4,4,4,4,1,No,"Search Engine like Google, Bing",Internet and book ,26,Male,Mathematics,4,No,1,No,Yes,Maybe,No
+7,6,5,7,5,1,1,6,5,5,6,5,1,1,6,7,7,6,6,1,1,5,No,"Search Engine like Google, Bing",Robot,25,Male,Computer Science,6,No,1,No,No,Yes,No
+6,7,4,4,7,1,1,7,5,4,6,6,3,2,7,7,6,7,5,1,1,5,No,"Search Engine like Google, Bing",Robot,24,Male,Electrical engineer ,6,No,3,No,Yes,Yes,No
+4,7,7,6,7,2,2,6,5,5,5,6,1,1,7,6,5,6,7,1,1,1,No,"Search Engine like Google, Bing",Human,24,Female,Economics,7,Yes,2,No,Yes,No,Yes
+5,7,7,7,7,2,1,6,6,5,5,6,3,1,6,7,6,5,6,1,1,5,Yes,Human,Human,26,Male,Electrical engineer ,6,No,2,No,Yes,Yes,No
+5,6,6,6,7,1,2,7,7,5,6,6,1,1,7,7,7,7,6,1,1,1,No,"Search Engine like Google, Bing",Human,22,Female,Mathematics,6,No,2,No,No,Yes,No
+7,7,7,6,6,1,1,7,5,5,6,5,2,1,7,6,5,5,6,1,1,4,No,"Search Engine like Google, Bing",Robot,24,Male,Electrical engineer ,6,Yes,4,No,Yes,Yes,No
+5,7,7,6,6,2,1,6,7,6,7,5,1,1,7,7,4,5,5,2,2,3,No,Human,Human,26,Female,Mechanical engineering,7,No,2,No,No,Yes,No
+5,7,6,7,7,2,1,7,7,6,6,6,1,2,7,6,6,5,5,2,2,5,No,"Search Engine like Google, Bing",Robot,27,Male,Computer Science,7,No,2,No,No,Maybe,No
+6,6,7,6,7,1,1,7,7,5,6,6,1,1,7,7,6,6,6,2,2,2,No,"Search Engine like Google, Bing",Human,25,Male,Electrical engineer ,5,No,1,No,No,Maybe,No
+6,6,6,4,6,2,2,7,7,4,4,4,1,1,7,6,5,6,6,1,1,2,No,Human,Human,22,Male,Mechanical engineering,6,No,2,No,No,Yes,No
+7,7,5,5,6,1,1,7,7,5,6,6,1,1,7,6,6,5,6,1,1,1,No,"Search Engine like Google, Bing",Human,29,Female,Economics,7,Yes,2,No,No,Yes,No
+6,6,6,5,5,2,2,7,7,5,6,5,1,1,7,7,5,6,5,1,2,5,No,"Search Engine like Google, Bing",Robot,27,Male,Computer Science,6,No,2,No,Yes,No,No
+6,6,5,6,6,1,1,7,6,7,6,6,2,1,7,6,7,7,7,1,1,3,No,"Search Engine like Google, Bing",Robot,25,Male,Electrical engineer ,7,No,2,No,No,Maybe,No

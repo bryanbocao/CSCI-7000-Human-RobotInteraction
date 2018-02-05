@@ -1,0 +1,29 @@
+Lecture1:
+P2: https://www.youtube.com/watch?v=E2evC2xTNWg
+P4: http://ieeexplore.ieee.org/document/5453193/
+P23: https://fas.org/irp/agency/dod/dsb/autonomy.pdf
+
+Lecture2:
+P2: https://www.youtube.com/watch?v=tu_5bU2NaLo
+P18: https://www.ieee.org/conferences_events/conferences/publishing/templates.html
+
+Lecture3:
+P2: https://www.cmu.edu/herb-robot/
+P3: http://personalrobotics.ri.cmu.edu/
+
+Lecture6:
+P2: https://www.ri.cmu.edu/research_project_detail.html?project_id=523&menu_id=261
+P5: https://www.youtube.com/watch?v=KP_q5dka0kY
+
+Lecture8:
+P2: https://www.youtube.com/watch?v=uyGJ7gd7jq8
+
+Lecture9:
+P33: https://www.youtube.com/watch?v=ZT3HILfxvps
+     https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C
+
+Lecture13:
+P1: https://www.youtube.com/watch?v=rVlhMGQgDkY
+
+Lecture14:
+P2: https://vimeo.com/153148841
